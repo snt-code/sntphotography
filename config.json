@@ -1,0 +1,68 @@
+{
+  "Rotterdam 2022": [
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Rotterdam 2022/DSC_2000.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Rotterdam 2022/DSC_2000.placeholder.jpg",
+      "path": "./photos/Rotterdam 2022/DSC_2000.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Rotterdam 2022/DSC_2007.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Rotterdam 2022/DSC_2007.placeholder.jpg",
+      "path": "./photos/Rotterdam 2022/DSC_2007.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Rotterdam 2022/DSC_2014.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Rotterdam 2022/DSC_2014.placeholder.jpg",
+      "path": "./photos/Rotterdam 2022/DSC_2014.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Rotterdam 2022/DSC_2032.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Rotterdam 2022/DSC_2032.placeholder.jpg",
+      "path": "./photos/Rotterdam 2022/DSC_2032.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Rotterdam 2022/DSC_2067.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Rotterdam 2022/DSC_2067.placeholder.jpg",
+      "path": "./photos/Rotterdam 2022/DSC_2067.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Rotterdam 2022/DSC_2077.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Rotterdam 2022/DSC_2077.placeholder.jpg",
+      "path": "./photos/Rotterdam 2022/DSC_2077.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Rotterdam 2022/DSC_2095.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Rotterdam 2022/DSC_2095.placeholder.jpg",
+      "path": "./photos/Rotterdam 2022/DSC_2095.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Rotterdam 2022/DSC_2103.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Rotterdam 2022/DSC_2103.placeholder.jpg",
+      "path": "./photos/Rotterdam 2022/DSC_2103.jpg"
+    }
+  ]
+}
