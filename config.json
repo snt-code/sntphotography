@@ -1,68 +1,252 @@
 {
-  "Rotterdam 2022": [
+  "Made in Asia 2021": [
     {
       "height": 1350,
-      "compressed_path": "./photos/Rotterdam 2022/DSC_2000.min.jpg",
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0328.min.jpg",
       "width": 1080,
       "compressed": false,
-      "placeholder_path": "./photos/Rotterdam 2022/DSC_2000.placeholder.jpg",
-      "path": "./photos/Rotterdam 2022/DSC_2000.jpg"
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0328.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0328.jpg"
     },
     {
       "height": 1350,
-      "compressed_path": "./photos/Rotterdam 2022/DSC_2007.min.jpg",
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0436.min.jpg",
       "width": 1080,
       "compressed": false,
-      "placeholder_path": "./photos/Rotterdam 2022/DSC_2007.placeholder.jpg",
-      "path": "./photos/Rotterdam 2022/DSC_2007.jpg"
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0436.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0436.jpg"
     },
     {
       "height": 1350,
-      "compressed_path": "./photos/Rotterdam 2022/DSC_2014.min.jpg",
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0453.min.jpg",
       "width": 1080,
       "compressed": false,
-      "placeholder_path": "./photos/Rotterdam 2022/DSC_2014.placeholder.jpg",
-      "path": "./photos/Rotterdam 2022/DSC_2014.jpg"
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0453.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0453.jpg"
     },
     {
       "height": 1350,
-      "compressed_path": "./photos/Rotterdam 2022/DSC_2032.min.jpg",
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0469.min.jpg",
       "width": 1080,
       "compressed": false,
-      "placeholder_path": "./photos/Rotterdam 2022/DSC_2032.placeholder.jpg",
-      "path": "./photos/Rotterdam 2022/DSC_2032.jpg"
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0469.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0469.jpg"
     },
     {
       "height": 1350,
-      "compressed_path": "./photos/Rotterdam 2022/DSC_2067.min.jpg",
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0476.min.jpg",
       "width": 1080,
       "compressed": false,
-      "placeholder_path": "./photos/Rotterdam 2022/DSC_2067.placeholder.jpg",
-      "path": "./photos/Rotterdam 2022/DSC_2067.jpg"
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0476.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0476.jpg"
     },
     {
       "height": 1350,
-      "compressed_path": "./photos/Rotterdam 2022/DSC_2077.min.jpg",
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0488.min.jpg",
       "width": 1080,
       "compressed": false,
-      "placeholder_path": "./photos/Rotterdam 2022/DSC_2077.placeholder.jpg",
-      "path": "./photos/Rotterdam 2022/DSC_2077.jpg"
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0488.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0488.jpg"
     },
     {
       "height": 1350,
-      "compressed_path": "./photos/Rotterdam 2022/DSC_2095.min.jpg",
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0500.min.jpg",
       "width": 1080,
       "compressed": false,
-      "placeholder_path": "./photos/Rotterdam 2022/DSC_2095.placeholder.jpg",
-      "path": "./photos/Rotterdam 2022/DSC_2095.jpg"
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0500.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0500.jpg"
     },
     {
       "height": 1350,
-      "compressed_path": "./photos/Rotterdam 2022/DSC_2103.min.jpg",
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0506.min.jpg",
       "width": 1080,
       "compressed": false,
-      "placeholder_path": "./photos/Rotterdam 2022/DSC_2103.placeholder.jpg",
-      "path": "./photos/Rotterdam 2022/DSC_2103.jpg"
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0506.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0506.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0513.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0513.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0513.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0515.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0515.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0515.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0520.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0520.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0520.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0524.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0524.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0524.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0530.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0530.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0530.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0534.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0534.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0534.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0536.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0536.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0536.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0540.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0540.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0540.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0545.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0545.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0545.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0547.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0547.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0547.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0550.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0550.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0550.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0570.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0570.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0570.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0574.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0574.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0574.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0614.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0614.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0614.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0619.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0619.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0619.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_0626.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_0626.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_0626.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_8994.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_8994.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_8994.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_8995.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_8995.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_8995.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_8996.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_8996.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_8996.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_8997.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_8997.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_8997.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_8998.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_8998.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_8998.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_8999.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_8999.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_8999.jpg"
+    },
+    {
+      "height": 1350,
+      "compressed_path": "./photos/Made in Asia 2021/DSC_9000.min.jpg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/Made in Asia 2021/DSC_9000.placeholder.jpg",
+      "path": "./photos/Made in Asia 2021/DSC_9000.jpg"
     }
   ]
 }
